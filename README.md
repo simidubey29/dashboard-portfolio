@@ -18,3 +18,15 @@ Provides insights into employee data, workforce trends, and HR metrics.
 
 ![HR Analytics](https://raw.githubusercontent.com/simidubey29/dashboard-portfolio/main/PowerBI/hr-analytics.png)
 
+## 💰 Sales Dashboard
+
+Analyzes sales, profit, orders, quantity, products, and sales trends.
+
+![Sales Dashboard](https://raw.githubusercontent.com/simidubey29/dashboard-portfolio/main/PowerBI/sales-dashboard.png)
+
+## 📱 Social Media Engagement
+
+Analyzes social media performance and engagement using key metrics.
+
+![Social Media Engagement](https://raw.githubusercontent.com/simidubey29/dashboard-portfolio/main/PowerBI/social-media-engagement.png)
+
