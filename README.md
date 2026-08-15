@@ -6,6 +6,12 @@ Analyzes sales, products, outlets, and overall business performance.
 
 ![Blinkit Analysis](https://raw.githubusercontent.com/simidubey29/dashboard-portfolio/main/PowerBI/blinkit-analysis.png)
 
+## 📱 Social Media Engagement
+
+Analyzes social media performance and engagement using key metrics.
+
+![Social Media Engagement](https://raw.githubusercontent.com/simidubey29/dashboard-portfolio/main/PowerBI/social-media-engagement.png)
+
 ## 🎓 Course Level Enrollment
 
 Visualizes student enrollment across different course levels and categories.
@@ -24,9 +30,5 @@ Analyzes sales, profit, orders, quantity, products, and sales trends.
 
 ![Sales Dashboard](https://raw.githubusercontent.com/simidubey29/dashboard-portfolio/main/PowerBI/sales-dashboard.png)
 
-## 📱 Social Media Engagement
 
-Analyzes social media performance and engagement using key metrics.
-
-![Social Media Engagement](https://raw.githubusercontent.com/simidubey29/dashboard-portfolio/main/PowerBI/social-media-engagement.png)
 
